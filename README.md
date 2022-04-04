@@ -1,5 +1,5 @@
 # odin-recipes
-Create a website containing recipes in HTML
+Create a website containing recipes.
 
 The website should contain list, images, and
 links to other websites. Website should use at
